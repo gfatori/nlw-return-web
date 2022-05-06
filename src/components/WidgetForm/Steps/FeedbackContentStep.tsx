@@ -10,7 +10,6 @@ interface FeedbackContentStepProps {
     onFeedbackSent: () => void;
 }
 
-
 export function FeedbackContentStep({
     feedbackType,
     onFeedbackRestartRequested,
